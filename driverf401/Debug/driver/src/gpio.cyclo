@@ -1,0 +1,9 @@
+../driver/src/gpio.c:8:6:GPIO_CLK	14
+../driver/src/gpio.c:29:6:GPIO_Init	12
+../driver/src/gpio.c:87:6:GPIO_WritePin	2
+../driver/src/gpio.c:98:9:GPIO_ReadPin	1
+../driver/src/gpio.c:102:6:GPIO_TogglePin	2
+../driver/src/gpio.c:114:6:NVIC_IRQ_ConFig	12
+../driver/src/gpio.c:147:6:NVIC_IRQ_PriorityConFig	1
+../driver/src/gpio.c:153:27:Application_CallBack	1
+../driver/src/gpio.c:157:6:GPIO_IRQ_Handling	2

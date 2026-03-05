@@ -1,0 +1,6 @@
+../driver/src/otg.c:115:6:CDC_SendData	48	static
+../driver/src/otg.c:140:13:OTG_Stop_Device	24	static
+../driver/src/otg.c:166:6:OTG_FS_Core_Init	24	static
+../driver/src/otg.c:203:6:OTG_FS_Device_Init	24	static
+../driver/src/otg.c:227:7:USB_Handle_Setup	72	static
+../driver/src/otg.c:449:6:OTG_IRQ_Handle	64	static
